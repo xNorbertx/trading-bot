@@ -1,0 +1,15 @@
+{
+  "started_at": "2026-03-20T10:09:28.033126+00:00",
+  "initial_capital": 250.0,
+  "capital": 250.0,
+  "inventory": {},
+  "grid_active": false,
+  "grid_center": null,
+  "grid_buy_levels": [],
+  "grid_sell_levels": [],
+  "trades": [],
+  "total_grid_profit": 0.0,
+  "total_trades": 0,
+  "last_price": 70326.76,
+  "last_tick": "2026-03-20T10:11:47.895783+00:00"
+}
